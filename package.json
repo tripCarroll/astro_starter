@@ -1,5 +1,5 @@
 {
-  "name": "ls",
+  "name": "yuri",
   "type": "module",
   "version": "0.0.1",
   "scripts": {
@@ -9,6 +9,9 @@
     "astro": "astro"
   },
   "dependencies": {
-    "astro": "^5.13.9"
+    "@tailwindcss/vite": "^4.1.1",
+    "astro": "^5.5.3",
+    "gsap": "^3.12.7",
+    "tailwindcss": "^4.1.1"
   }
 }
